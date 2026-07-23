@@ -55,19 +55,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mahmudul150&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmudul150&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mahmudul150&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmudul150&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mahmudul150&theme=tokyonight" />
+  <img width="700" src="https://streak-stats.demolab.com?user=Mahmudul150&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahmudul150&style=for-the-badge" />
-</p>
-
 ---
 
-⭐ **Thanks for visiting my profile!**
+
 ### ⭐ Thanks for visiting my profile!
