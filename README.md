@@ -2,17 +2,15 @@
 
 ### 💻 Full Stack Developer
 
-🚀 Passionate about building scalable and user-friendly web applications.
+
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on Full Stack Web Applications
 - 🌱 Learning System Design, Docker & AWS
-- 💬 Ask me about React, Next.js, Node.js, Express.js & PostgreSQL
+- 💬 Ask me about html, css, JavaScript, TypeScript, Next.js, Node.js, Express.js & PostgreSQL
 - 📫 Email: your-email@gmail.com
-- 🌍 Location: Chittagong, Bangladesh
 
 ---
 
