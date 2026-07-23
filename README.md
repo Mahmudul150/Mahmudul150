@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Mahmudul+Hasan;Full+Stack+Developer;MERN+Stack+Developer;Always+Learning+New+Technologies" />
-</p>
+
 # Hi 👋, I'm Mahmudul Hasan
 
-### 💻 Full Stack Developer
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
@@ -54,10 +52,6 @@
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mahmudul150&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmudul150&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img width="700" src="https://streak-stats.demolab.com?user=Mahmudul150&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
