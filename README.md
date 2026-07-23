@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Mahmudul+Hasan;Full+Stack+Developer;MERN+Stack+Developer;Always+Learning+New+Technologies" />
+</p>
 # Hi 👋, I'm Mahmudul Hasan
 
 ### 💻 Full Stack Developer
@@ -49,17 +52,22 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/md.mahmudul.hasan.723956)
 
 ---
-
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Mahmudul150&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mahmudul150&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmudul150&layout=compact&theme=tokyonight" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmudul150&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mahmudul150&theme=tokyonight" />
+</p>
 
-![](https://streak-stats.demolab.com?user=Mahmudul150&theme=tokyonight)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mahmudul150&style=for-the-badge" />
+</p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Mahmudul150&style=for-the-badge)
-
+⭐ **Thanks for visiting my profile!**
 ### ⭐ Thanks for visiting my profile!
